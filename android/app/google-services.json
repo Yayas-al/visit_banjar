@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466811946637",
+    "project_id": "my-destination-40cf1",
+    "storage_bucket": "my-destination-40cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466811946637:android:523a6215300579a2e904c4",
+        "android_client_info": {
+          "package_name": "com.destination.visit_banjar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466811946637-sjekk5upt4irft7d6j2qu5e23m53u8og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSTFm3XFAxvuXE8MvPa9ao_Msj5b37WuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466811946637-sjekk5upt4irft7d6j2qu5e23m53u8og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
