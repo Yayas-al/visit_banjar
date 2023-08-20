@@ -23,7 +23,7 @@ Future<UserModel> signUp({
     return user;
   }catch(e){
     rethrow;
-  };
+  }
 }
 
 Future<UserModel?> login({

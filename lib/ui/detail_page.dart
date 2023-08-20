@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:visit_banjar/shared/theme.dart';
 import 'package:visit_banjar/ui/widget/custom_button.dart';
-import 'package:visit_banjar/ui/widget/photo_item.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../model/destination_model.dart';
@@ -135,19 +134,6 @@ class DetailPage extends StatelessWidget {
                     textAlign: TextAlign.justify,
                   ),
                   const SizedBox(height: 20,),
-                  Text('Photo',
-                  style: blackTextStyle.copyWith(
-                  fontSize: 16,
-                  fontWeight: semiBold,
-                ),
-                  ),
-                  const SizedBox(height: 6,),
-                  const Row(
-                    children: [
-                      PhotoItem(imageUrl: 'assets/bgDieng.png'),
-                      PhotoItem(imageUrl: 'assets/cover.png')
-                    ],
-                  ),
               const SizedBox(height: 20,),
                   Text('Alamat',
                     style: blackTextStyle.copyWith(
@@ -165,7 +151,7 @@ class DetailPage extends StatelessWidget {
                           height: 2,
                         ),
                       ),
-                      SizedBox(
+                      const SizedBox(
                         width: 150,
                       ),
                       CustomButton(

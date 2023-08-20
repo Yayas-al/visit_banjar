@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "466811946637",
-    "project_id": "my-destination-40cf1",
-    "storage_bucket": "my-destination-40cf1.appspot.com"
+    "project_number": "268352417525",
+    "project_id": "visit-da310",
+    "storage_bucket": "visit-da310.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:466811946637:android:523a6215300579a2e904c4",
+        "mobilesdk_app_id": "1:268352417525:android:f0baa171e172b7ecee5fbc",
         "android_client_info": {
           "package_name": "com.destination.visit_banjar"
         }
       },
       "oauth_client": [
         {
-          "client_id": "466811946637-sjekk5upt4irft7d6j2qu5e23m53u8og.apps.googleusercontent.com",
+          "client_id": "268352417525-bhq1gr1b80oqeec7skcrm6g2kdm6qn3q.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCSTFm3XFAxvuXE8MvPa9ao_Msj5b37WuI"
+          "current_key": "AIzaSyAhcV5ARCQYmLuQrEdTWJd8Fhwu62L7MTM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "466811946637-sjekk5upt4irft7d6j2qu5e23m53u8og.apps.googleusercontent.com",
+              "client_id": "268352417525-bhq1gr1b80oqeec7skcrm6g2kdm6qn3q.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
